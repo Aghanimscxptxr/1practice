@@ -1,5 +1,6 @@
 # 1practice
 No-SQL DBMS development
+```
 Usage: ./dbms --query
 All commands:
 SADD <value>: Add a value to the set
@@ -14,3 +15,4 @@ HDEL <key>: Delete the key to the hash-table
 HGET <key>: Reads the value by key in the hash-table
 EXIT: Exit the program
 Program example: ./dbms --QPUSH mk
+```
